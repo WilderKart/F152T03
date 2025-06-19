@@ -1,0 +1,57 @@
+/*@keyframes botones {
+  from {background-color: #000500;}
+  to {background-color: #ffee00e1;}*/
+
+
+a{
+   
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(76, 0, 130, 0.836);
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: #ffffff;
+    margin-bottom: 15px;
+    font-size: 23px;
+    width: 250px; /* Puedes ajustar el ancho */
+    margin-left: auto;
+    margin-right: auto;
+    animation-name: botones;
+    animation-duration: 10s;
+    border: none;
+    font-weight: bold;
+}
+.btn{
+    margin: auto;
+    width: auto;
+}
+img{
+    width: 100%;
+    display: block;
+    margin-bottom: 29px;
+}
+
+p,h1{
+    font-family: 'poppins', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 40px;
+text-align: justify;
+}
+
+h1{
+    color: #0971a9;
+
+    text-align: center;
+}
+.container{
+    background-color: #afffff;
+    
+}
+.mb-1,.mb-0{
+    color: #3f3133;
+    text-align: center;
+}
+
