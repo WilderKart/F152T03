@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card {
+    width: 80%;
+    max-width: 600px;
+    background-color: rgb(4, 0, 5);
+    color: white;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 40px 20px;
+    border-radius: 75px;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+.titulo {
+    border: 2px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+}
+
+.parrafo {
+    text-transform: uppercase;
+    text-align: justify;
+}
+.parrafoUno {
+    font-family: cursive;
+    text-transform: lowercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(43, 144, 226);

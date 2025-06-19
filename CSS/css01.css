@@ -1,0 +1,29 @@
+#uno{
+    color: blue;
+    background-color: yellow;
+    width: 300px;
+    height: auto;
+    padding: 40;
+    margin: 10px 20px 10px 20px;
+    border: 2px solid black;
+}
+
+#dos{
+    background-color: lightgreen;
+    color: red;
+    width: 400px;
+    padding: 10px 0 10px 0;
+    margin: auto;
+    border: 2px solid gray;
+
+
+}
+
+#tres{
+    background-color: lightblue;
+    width: 50%;
+    padding: 20%;
+    margin: auto;
+    border: 2px solid maroon;
+
+}
